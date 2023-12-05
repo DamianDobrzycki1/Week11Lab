@@ -6,10 +6,16 @@ public class Person {
     String address;
     String telephone;
 
-    public Person(String name, String address, String telephone){
+
+    public Person(){
         this.name = " ";
         this.address = " ";
         this.telephone = " ";
+    }
+    public Person(String name, String address, String telephone){
+        this.name = name;
+        this.address = address;
+        this.telephone = telephone;
     }
 
     public String getName() {

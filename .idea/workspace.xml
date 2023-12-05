@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ff5644-9916-44cd-bdca-e14127d4f499" name="Changes" comment="Added new class and new class called Person">
+    <list default="true" id="a8ff5644-9916-44cd-bdca-e14127d4f499" name="Changes" comment="Created new class called Customer">
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Person.java" afterDir="false" />
     </list>
@@ -55,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701781523525</updated>
       <workItem from="1701781524587" duration="5000" />
-      <workItem from="1701781610138" duration="1177000" />
+      <workItem from="1701781610138" duration="2510000" />
     </task>
     <task id="LOCAL-00001" summary="Added new class and new class called Person">
       <created>1701782481191</created>
@@ -64,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701782481191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new code in Main and added an Override for toString">
+      <created>1701782813293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701782813293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created new class called Customer">
+      <created>1701783093349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701783093349</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new class and new class called Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new class and new class called Person" />
+    <MESSAGE value="Added new code in Main and added an Override for toString" />
+    <MESSAGE value="Created new class called Customer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new class called Customer" />
   </component>
 </project>
