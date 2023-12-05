@@ -6,5 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Person myPerson = new Person(" Damian ", "Tuam", "1345");
         System.out.println(myPerson.toString());
+        Customer myCustomer = new Customer("Damian","Tuam","31241","R32df",true);
+        System.out.println(myCustomer.toString());
     }
 }
